@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narasimhareddytappeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narasimhareddytappeta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://Narasimha Reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narasimhareddytappeta" height="30" width="40" /></a>
 <a href="https://kaggle.com/narasimhareddy6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="narasimhareddy6201" height="30" width="40" /></a>
 <a href="https://instagram.com/narasimhareddy6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narasimhareddy6201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@narasimhareddyt5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@narasimhareddyt5" height="30" width="40" /></a>
