@@ -1,105 +1,29 @@
-👋 Hi, I’m Narasimha Reddy Tappeta
+<h1 align="center">Hi 👋, I'm NARASIMHA REDDY TAPPETA</h1>
+<h3 align="center">Aspiring Data Analyst | SQL & Python for Business-Driven Insights</h3>
 
-🎯 Aspiring Data Analyst focused on using SQL and Python to solve real-world business problems through data-driven insights.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha6201&label=Profile%20views&color=0e75b6&style=flat" alt="narasimha6201" /> </p>
 
-I am currently building strong analytical foundations by working on industry-grade datasets, writing optimized SQL queries, and performing data cleaning and exploratory analysis using Python.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasimha6201" alt="narasimha6201" /></a> </p>
 
-🧠 What I Do
+- 🌱 I’m currently learning **SQL & Python**
 
-Analyze structured data to answer business and operational questions
+- 👯 I’m looking to collaborate on **SQL & Python**
 
-Write efficient SQL queries for data extraction and aggregation
+- 💬 Ask me about **SQL & Python**
 
-Clean and prepare datasets using Python (Pandas)
+- 📫 How to reach me **narasimhareddytappeta00@gmail.com**
 
-Translate raw data into actionable insights
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/narasimhareddytappeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narasimhareddytappeta" height="30" width="40" /></a>
+<a href="https://kaggle.com/narasimhareddy6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="narasimhareddy6201" height="30" width="40" /></a>
+<a href="https://instagram.com/narasimhareddy6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narasimhareddy6201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@narasimhareddyt5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@narasimhareddyt5" height="30" width="40" /></a>
+</p>
 
-🛠️ Technical Skills
-📊 Data Analysis
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-SQL (MySQL, SQL Server)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narasimha6201&show_icons=true&locale=en&layout=compact" alt="narasimha6201" /></p>
 
-Python (Pandas)
-
-Data Cleaning & Preprocessing
-
-Business Question Analysis
-
-🗄️ SQL Concepts
-
-DDL, DML
-
-Joins (INNER, LEFT, RIGHT)
-
-Subqueries
-
-Aggregations & GROUP BY
-
-Constraints (Primary Key / Foreign Key – conceptual understanding)
-
-Multi-table query design
-
-🐍 Python
-
-Data analysis using Pandas
-
-CSV data handling
-
-Data cleaning and transformation
-
-📌 Featured Project
-🛒 Brazilian Olist E-Commerce Data Analysis (Ongoing)
-
-Tech Stack: SQL, Python (Pandas)
-Domain: E-commerce, Sales, General Analytics
-
-Description:
-Analyzing the Brazilian Olist e-commerce dataset to answer real business questions related to:
-
-Sales performance
-
-Order trends
-
-Customer behavior
-
-Revenue insights
-
-Work Done So Far:
-
-Designed and created database tables
-
-Loaded large CSV datasets using BULK INSERT
-
-Wrote analytical SQL queries to explore business metrics
-
-Cleaning and preprocessing data using Pandas
-
-This project is actively evolving and reflects my ability to work with real, messy, business data.
-
-🚀 What I’m Currently Focused On
-
-Writing advanced analytical SQL queries
-
-Improving business interpretation of data
-
-Strengthening Python-based data analysis
-
-Preparing for Data Analyst internships and full-time roles
-
-🤝 Open to Opportunities
-
-Data Analyst Internships
-
-Entry-level Data Analyst roles
-
-SQL & Python-based analytics projects
-
-📫 Connect With Me
-
-Email: narasimhareddytappeta00@gmail.com
-
-LinkedIn: linkedin.com/in/narasimhareddytappeta
-
-⚡ Fun Fact
-
-I enjoy breaking down complex datasets into simple insights that businesses can actually act on.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narasimha6201&" alt="narasimha6201" /></p>
