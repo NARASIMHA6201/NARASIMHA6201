@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **SQL & Python**
 
-- 💬 Ask me about **SQL & Python**
-
 - 📫 How to reach me **narasimhareddytappeta00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
