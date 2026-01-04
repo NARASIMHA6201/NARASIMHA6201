@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NARASIMHA REDDY TAPPETA</h1>
+<h1 align="center">NARASIMHA REDDY TAPPETA</h1>
 <h3 align="center">Aspiring Data Analyst | SQL & Python for Business-Driven Insights</h3>
 
 
